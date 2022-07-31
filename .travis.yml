@@ -1,3 +1,6 @@
+env:
+  global:
+    secure: qwerty321654@
 jobs:
   include:
     - os: osx
